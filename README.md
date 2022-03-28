@@ -1,2 +1,2 @@
-# Machine-Learing
-All data science &amp; machine learning pgms.
+# Data Science
+All data science pgms.
